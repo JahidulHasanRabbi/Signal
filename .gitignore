@@ -49,4 +49,4 @@ macos/
 test/
 web/
 windows/
-.firebase.json
+firebase.json

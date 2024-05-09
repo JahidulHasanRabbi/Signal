@@ -49,4 +49,4 @@ test/
 web/
 windows/
 firebase.json
-firebase_options.dart
+lib/firebase_options.dart
